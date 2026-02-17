@@ -35,6 +35,8 @@ public class FlappyBird extends JPanel implements ActionListener {
     // game logic
     Bird bird;
     int velocityY = -6;
+    int gravity =2;
+
     Timer gameLoop;
 
     FlappyBird() {
@@ -71,6 +73,7 @@ public class FlappyBird extends JPanel implements ActionListener {
 
     public void move(){
         //bird
+        velocityY += gravity;
         bird.y += velocityY;
         bird.y = Math.max(bird.y,0);
     }
