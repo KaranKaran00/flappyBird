@@ -1,7 +1,16 @@
 <h1 align="center">flappyBird</h1>
 
 <p align="center">
-Flappy Bird Game using java Language
+Flappy Bird Game using Java Language
+</p>
+
+---
+
+<p align="center">
+  <img src="flappyBird/Screenshot (177).png" width="20%" />
+  <img src="flappyBird/Screenshot (182).png" width="20%" />
+  <img src="flappyBird/Screenshot (175).png" width="20%" />
+  <img src="flappyBird/Screenshot (174).png" width="20%" />
 </p>
 
 ---
