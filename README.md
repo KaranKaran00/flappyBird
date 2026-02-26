@@ -8,7 +8,8 @@ Flappy Bird Game using Java Language
 <p align="center">
   <img src="flappyBird/ezgif.com-video-to-gif-converter.gif" alt="Flappy Bird Demo" />
 </p>
-  ---
+
+---
 
 <p align="center">
   <img src="flappyBird/Screenshot (177).png" width="20%" />
